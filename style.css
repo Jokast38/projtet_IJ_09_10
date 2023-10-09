@@ -1,0 +1,26 @@
+body {
+    font-family: 'NomDeLaPolice', sans-serif;
+}
+
+h1,
+h2,
+h4 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.g-col-6 {
+    background-color: black;
+}
+
+.card {
+
+    margin: 5;
+    display: flex;
+    margin: 20px;
+    ;
+}
+
+/*#product {
+    display: inline;
+}*/
